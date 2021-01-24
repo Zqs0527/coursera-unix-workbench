@@ -6,4 +6,4 @@ Current time:
 
 -------------------------------------
 The number of lines in guessinggame.sh is: 
-3
+31
